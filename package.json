@@ -1,0 +1,24 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rathinadev/Vercel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rathinadev/Vercel/issues"
+  },
+  "homepage": "https://github.com/rathinadev/Vercel#readme",
+  "description": ""
+}
