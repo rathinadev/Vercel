@@ -25,5 +25,8 @@
     "url": "https://github.com/rathinadev/Vercel/issues"
   },
   "homepage": "https://github.com/rathinadev/Vercel#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@types/cors": "^2.8.17"
+  }
 }
